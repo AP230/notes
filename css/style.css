@@ -5,9 +5,10 @@ body {
     justify-content: center;
     align-items: center;
     margin: 0;
-    background-color: black;
 }
-
+body {
+    background-image: url(../img/istockphoto-1392898737-612x612.jpg);
+  }
 #game-board {
     background-color: #CCC;
     width: 100vmin;
