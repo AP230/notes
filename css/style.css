@@ -6,11 +6,8 @@ body {
     align-items: center;
     margin: 0;
 }
-body {
-    background-image: url(../img/istockphoto-1392898737-612x612.jpg);
-  }
 #game-board {
-    background-color: #CCC;
+    background-color: #ff00dd;
     width: 100vmin;
     height: 100vmin;
     display: grid;
@@ -27,6 +24,7 @@ body {
     background-color: red;
     border: .25vmin solid black;
 }
-
-
+body {
+    background-image: url(../img/download\ \(1\).jpg);
+}
 
